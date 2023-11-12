@@ -1,0 +1,247 @@
+.rectangle1-31-macbookair-2-31- {
+  position: absolute;
+  height: 100%;
+  width: 23.44%;
+  top: 0;
+  right: 76.56%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.blackandwhitecollection20-31-m-icon,
+.line1-31-macbookair-2-31-frame-icon {
+  position: absolute;
+  height: 12.5%;
+  width: 8.13%;
+  top: 0;
+  right: 83.75%;
+  bottom: 87.5%;
+  left: 8.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.line1-31-macbookair-2-31-frame-icon {
+  height: 100%;
+  width: 0.08%;
+  right: 92.15%;
+  bottom: 0;
+  left: 7.77%;
+}
+.about-31-macbookair-2-31-frame,
+.home-31-macbookair-2-31-frame1 {
+  position: absolute;
+  height: 3%;
+  width: 5.55%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+}
+.home-31-macbookair-2-31-frame1 {
+  top: 42.31%;
+  filter: blur(3px);
+}
+.about-31-macbookair-2-31-frame {
+  top: 45.91%;
+  cursor: pointer;
+}
+.contact-31-macbookair-2-31-fra,
+.portfolio-31-macbookair-2-31-f,
+.tools-31-macbookair-2-31-frame {
+  position: absolute;
+  height: 3%;
+  width: 7.19%;
+  top: 49.52%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+  cursor: pointer;
+}
+.contact-31-macbookair-2-31-fra,
+.tools-31-macbookair-2-31-frame {
+  width: 6.41%;
+  top: 56.73%;
+}
+.contact-31-macbookair-2-31-fra {
+  width: 7.19%;
+  top: 53.13%;
+}
+.iconphone-frame-31-macbookair- {
+  position: absolute;
+  height: 3.61%;
+  width: 2.34%;
+  top: 90.14%;
+  right: 81.41%;
+  bottom: 6.25%;
+  left: 16.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.iconmenu-frame-31-macbookair-2,
+.vector-31-iconfacebook-31-macb,
+.vector-31-iconinstagram-31-mac {
+  position: absolute;
+  height: 3.61%;
+  width: 2.34%;
+  top: 90.14%;
+  right: 87.81%;
+  bottom: 6.25%;
+  left: 9.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconmenu-frame-31-macbookair-2,
+.vector-31-iconinstagram-31-mac {
+  right: 84.61%;
+  left: 13.05%;
+}
+.iconmenu-frame-31-macbookair-2 {
+  position: relative;
+  height: 3.82%;
+  width: 2.73%;
+  top: 3.97%;
+  right: 3.28%;
+  bottom: 92.21%;
+  left: 93.98%;
+}
+.iconmenu-frame-31-macbookair-2 img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.iconmenu-frame-31-macbookair-2 .main-image {
+  z-index: 1;
+}
+
+.iconmenu-frame-31-macbookair-2 .hover-image {
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.iconmenu-frame-31-macbookair-2:hover .main-image {
+  opacity: 0;
+}
+
+.iconmenu-frame-31-macbookair-2:hover .hover-image {
+  opacity: 1;
+}
+.instagran-31-macbookair-2-31-f,
+.tandindd-31-macbookair-2-31-fr {
+  position: absolute;
+  top: 750px;
+  left: 126px;
+  font-size: var(--font-size-smi);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  color: inherit;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  opacity: 0;
+}
+.instagran-31-macbookair-2-31-f {
+  left: 167px;
+}
+.home-31-group6-31-macbookair-2 {
+  position: absolute;
+  height: 4.84%;
+  width: 15.41%;
+  top: 2.93%;
+  left: 5.58%;
+  display: inline-block;
+  text-align: left;
+}
+.line7-31-group6-31-macbookair- {
+  position: absolute;
+  height: 0.25%;
+  width: 7.44%;
+  top: 11.59%;
+  right: 87.12%;
+  bottom: 88.15%;
+  left: 5.44%;
+  border-top: 2px solid var(--color-red);
+  box-sizing: border-box;
+}
+.welcome-31-group6-31-macbookai {
+  position: absolute;
+  height: 8.15%;
+  width: 31.87%;
+  top: 73.15%;
+  left: 33.2%;
+  font-size: var(--font-size-51xl);
+  font-family: var(--font-island-moments);
+  display: inline-block;
+  transform: rotate(-5.79deg);
+  transform-origin: 0 0;
+}
+.feelfreetobrowsethrough-31-gro,
+.thisisplacewhereyoucanknowabou {
+  position: absolute;
+  height: 7.9%;
+  width: 92.3%;
+  top: 83.31%;
+  left: 3.45%;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+}
+.feelfreetobrowsethrough-31-gro {
+  height: 3.95%;
+  width: 37.05%;
+  top: 93.38%;
+  left: 31.08%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+}
+.rectangle8-31-group6-31-macboo-icon {
+  position: absolute;
+  height: 54.01%;
+  width: 100%;
+  top: 16.05%;
+  right: 0;
+  bottom: 29.94%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame6-31-macbookair-2-31-fram {
+  position: absolute;
+  height: 94.35%;
+  width: 58.83%;
+  top: 3.25%;
+  right: 14.77%;
+  bottom: 2.4%;
+  left: 26.41%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.macbookair-2-31-frame1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+}
+.macbookair-2-31-frame1-parent {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}

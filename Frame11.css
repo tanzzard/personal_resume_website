@@ -1,0 +1,279 @@
+.macbook-air-2-child {
+  position: absolute;
+  height: 100%;
+  width: 23.44%;
+  top: 0;
+  right: 76.56%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.black-and-white-collection-201,
+.macbook-air-2-item {
+  position: absolute;
+  height: 12.5%;
+  width: 8.13%;
+  top: 0;
+  right: 83.75%;
+  bottom: 87.5%;
+  left: 8.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.macbook-air-2-item {
+  height: 100%;
+  width: 0.08%;
+  right: 92.15%;
+  bottom: 0;
+  left: 7.77%;
+}
+.about2,
+.home1 {
+  position: absolute;
+  height: 3%;
+  width: 5.55%;
+  top: 42.31%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+  cursor: pointer;
+}
+.about2 {
+  top: 45.91%;
+}
+.portfolio2 {
+  width: 7.19%;
+  top: 49.52%;
+  cursor: pointer;
+}
+.contact2,
+.portfolio2,
+.tools2 {
+  position: absolute;
+  height: 3%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+}
+.tools2 {
+  width: 6.41%;
+  top: 56.73%;
+  filter: blur(3px);
+}
+.contact2 {
+  width: 7.19%;
+  top: 53.13%;
+  cursor: pointer;
+}
+.icon-facebook1,
+.icon-instagram1,
+.icon-menu1,
+.icon-phone1 {
+  position: absolute;
+  height: 3.61%;
+  width: 2.34%;
+  top: 90.14%;
+  bottom: 6.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-phone1 {
+  right: 81.41%;
+  left: 16.25%;
+  cursor: pointer;
+}
+.icon-facebook1,
+.icon-instagram1,
+.icon-menu1 {
+  right: 87.81%;
+  left: 9.84%;
+}
+.icon-instagram1,
+.icon-menu1 {
+  right: 84.61%;
+  left: 13.05%;
+}
+.icon-menu1 {
+  height: 3.82%;
+  width: 2.73%;
+  top: 3.97%;
+  right: 3.28%;
+  bottom: 92.21%;
+  left: 93.98%;
+}
+.instagran1,
+.tandindd1 {
+  position: absolute;
+  top: 750px;
+  left: 126px;
+  font-size: var(--font-size-smi);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  color: inherit;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  opacity: 0;
+}
+.instagran1 {
+  left: 167px;
+}
+.group-child4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+}
+.tools3 {
+  position: absolute;
+  height: 4.84%;
+  width: 17.93%;
+  top: 2.93%;
+  left: 5.58%;
+  display: inline-block;
+}
+.line-div {
+  position: absolute;
+  height: 0.25%;
+  width: 7.44%;
+  top: 11.59%;
+  right: 87.12%;
+  bottom: 88.15%;
+  left: 5.45%;
+  border-top: 2px solid var(--color-red);
+  box-sizing: border-box;
+}
+.group-child5,
+.group-child6,
+.group-child7,
+.group-child8 {
+  position: absolute;
+  height: 12.22%;
+  width: 23.72%;
+  top: 0;
+  right: 76.28%;
+  bottom: 87.78%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child6,
+.group-child7,
+.group-child8 {
+  top: 22.4%;
+  bottom: 65.38%;
+}
+.group-child7,
+.group-child8 {
+  top: 44.81%;
+  bottom: 42.97%;
+}
+.group-child8 {
+  top: 67.21%;
+  bottom: 20.57%;
+}
+.figma1,
+.github1 {
+  height: 8.76%;
+  line-height: 30px;
+}
+.figma1 {
+  position: absolute;
+  width: 47.43%;
+  top: 3.46%;
+  left: 37.94%;
+  display: inline-block;
+}
+.github1 {
+  width: 61.26%;
+  top: 25.87%;
+}
+.github1,
+.kaggle1,
+.leetcode1 {
+  position: absolute;
+  left: 37.94%;
+  display: inline-block;
+}
+.kaggle1 {
+  height: 8.35%;
+  width: 59.29%;
+  top: 48.27%;
+  line-height: 30px;
+}
+.leetcode1 {
+  height: 8.96%;
+  width: 62.06%;
+  top: 68.84%;
+}
+.group-child9,
+.python1 {
+  position: absolute;
+  top: 87.78%;
+}
+.group-child9 {
+  height: 12.22%;
+  width: 23.72%;
+  right: 76.28%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.python1 {
+  height: 9.57%;
+  width: 60.47%;
+  left: 37.94%;
+  display: inline-block;
+}
+.group-div,
+.rectangle-parent1 {
+  position: absolute;
+  height: 62.55%;
+  width: 33.6%;
+  top: 19.36%;
+  right: 57.23%;
+  bottom: 18.09%;
+  left: 9.16%;
+}
+.group-div {
+  height: 94.35%;
+  width: 58.82%;
+  top: 3.25%;
+  right: 14.77%;
+  bottom: 2.4%;
+  left: 26.41%;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.macbook-air-2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+}
+.macbook-air-2-parent {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}

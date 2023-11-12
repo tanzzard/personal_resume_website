@@ -1,0 +1,331 @@
+.macbook-air-2-child1 {
+  position: absolute;
+  height: 100%;
+  width: 23.44%;
+  top: 0;
+  right: 76.56%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.black-and-white-collection-205,
+.macbook-air-2-child2 {
+  position: absolute;
+  height: 12.5%;
+  width: 8.13%;
+  top: 0;
+  right: 83.75%;
+  bottom: 87.5%;
+  left: 8.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.macbook-air-2-child2 {
+  height: 100%;
+  width: 0.08%;
+  right: 92.15%;
+  bottom: 0;
+  left: 7.77%;
+}
+.about8,
+.home5 {
+  width: 5.55%;
+  cursor: pointer;
+}
+.home5 {
+  position: absolute;
+  height: 3%;
+  top: 42.31%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+}
+.about8 {
+  top: 45.91%;
+}
+.about8,
+.contact10,
+.portfolio9,
+.tools7 {
+  position: absolute;
+  height: 3%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+}
+.portfolio9 {
+  width: 7.19%;
+  top: 49.52%;
+  filter: blur(3px);
+}
+.contact10,
+.tools7 {
+  width: 6.41%;
+  top: 56.73%;
+  cursor: pointer;
+}
+.contact10 {
+  width: 7.19%;
+  top: 53.13%;
+}
+.icon-facebook5,
+.icon-instagram5,
+.icon-menu5,
+.icon-phone5 {
+  position: absolute;
+  height: 3.61%;
+  width: 2.34%;
+  top: 90.14%;
+  right: 81.41%;
+  bottom: 6.25%;
+  left: 16.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-facebook5,
+.icon-instagram5,
+.icon-menu5 {
+  right: 87.81%;
+  left: 9.84%;
+}
+.icon-instagram5,
+.icon-menu5 {
+  right: 84.61%;
+  left: 13.05%;
+}
+.icon-menu5 {
+  height: 3.82%;
+  width: 2.73%;
+  top: 3.97%;
+  right: 3.28%;
+  bottom: 92.21%;
+  left: 93.98%;
+}
+.instagran5,
+.tandindd5 {
+  position: absolute;
+  top: 750px;
+  left: 126px;
+  font-size: var(--font-size-smi);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  color: inherit;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  opacity: 0;
+}
+.instagran5 {
+  left: 167px;
+}
+.group-child35 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+}
+.portfolio10 {
+  position: absolute;
+  height: 4.84%;
+  width: 21.65%;
+  top: 2.93%;
+  left: 5.58%;
+  display: inline-block;
+}
+.group-child36 {
+  position: absolute;
+  height: 0.25%;
+  width: 7.44%;
+  top: 11.59%;
+  right: 87.12%;
+  bottom: 88.15%;
+  left: 5.45%;
+  border-top: 2px solid var(--color-red);
+  box-sizing: border-box;
+}
+.skills1 {
+  position: absolute;
+  height: 4.33%;
+  width: 12.88%;
+  top: 14.9%;
+  left: 5.58%;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+}
+.group-child37 {
+  position: absolute;
+  height: 11.75%;
+  width: 11.11%;
+  top: 0;
+  right: 86.07%;
+  bottom: 88.25%;
+  left: 2.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.programming-languages1 {
+  margin-block-start: 0;
+  margin-block-end: 18px;
+}
+.testing-and-debugging1 {
+  margin: 0;
+}
+.programming-languages-softwar-container1 {
+  position: absolute;
+  width: 75%;
+  top: 0.75%;
+  left: 16.23%;
+  display: inline-block;
+  opacity: 0.8;
+}
+.group-child38,
+.group-child39,
+.group-child40,
+.group-child41,
+.group-child42 {
+  position: absolute;
+  height: 10.26%;
+  width: 9.7%;
+  top: 10.26%;
+  right: 86.77%;
+  bottom: 79.48%;
+  left: 3.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child39,
+.group-child40,
+.group-child41,
+.group-child42 {
+  height: 8.4%;
+  width: 7.94%;
+  top: 20.52%;
+  right: 88.54%;
+  bottom: 71.08%;
+}
+.group-child40,
+.group-child41,
+.group-child42 {
+  top: 33.4%;
+  right: 87.65%;
+  bottom: 58.21%;
+  left: 4.41%;
+}
+.group-child41,
+.group-child42 {
+  top: 44.96%;
+  bottom: 46.64%;
+}
+.group-child42 {
+  height: 17.72%;
+  width: 16.75%;
+  top: 52.61%;
+  right: 83.25%;
+  bottom: 29.66%;
+  left: 0;
+}
+.data-structures-and-container1 {
+  position: absolute;
+  width: 90%;
+  top: 58.02%;
+  left: 16.23%;
+  display: inline-block;
+  opacity: 0.8;
+}
+.group-child43,
+.group-child44,
+.group-child45 {
+  position: absolute;
+  height: 15%;
+  width: 14.11%;
+  top: 65.86%;
+  right: 84.66%;
+  bottom: 19.22%;
+  left: 1.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child44,
+.group-child45 {
+  height: 9.33%;
+  width: 11.64%;
+  top: 79.1%;
+  right: 85.89%;
+  bottom: 11.57%;
+  left: 2.47%;
+}
+.group-child45 {
+  height: 10.26%;
+  width: 9%;
+  top: 89.74%;
+  right: 86.77%;
+  bottom: 0;
+  left: 4.41%;
+}
+.rectangle-parent9 {
+  position: absolute;
+  height: 68.28%;
+  width: 75.31%;
+  top: 22.42%;
+  right: 21.77%;
+  bottom: 9.3%;
+  left: 2.92%;
+  font-size: var(--font-size-13xl);
+}
+.rectangle-parent8 {
+  position: absolute;
+  height: 94.35%;
+  width: 58.82%;
+  top: 3.25%;
+  right: 14.77%;
+  bottom: 2.4%;
+  left: 26.41%;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.icon-arrow-circle-left1 {
+  position: absolute;
+  height: 4.81%;
+  width: 3.13%;
+  top: 89.66%;
+  right: 16.25%;
+  bottom: 5.53%;
+  left: 80.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.macbook-air-22 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+}
+.macbook-air-2-top {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}

@@ -1,0 +1,259 @@
+.macbook-air-2-inner {
+  position: absolute;
+  height: 100%;
+  width: 23.44%;
+  top: 0;
+  right: 76.56%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.black-and-white-collection-203,
+.line-icon {
+  position: absolute;
+  height: 12.5%;
+  width: 8.13%;
+  top: 0;
+  right: 83.75%;
+  bottom: 87.5%;
+  left: 8.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.line-icon {
+  height: 100%;
+  width: 0.08%;
+  right: 92.15%;
+  bottom: 0;
+  left: 7.77%;
+}
+.about5,
+.home3 {
+  position: absolute;
+  height: 3%;
+  width: 5.55%;
+  top: 42.31%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+  cursor: pointer;
+}
+.about5 {
+  top: 45.91%;
+}
+.portfolio5 {
+  width: 7.19%;
+  top: 49.52%;
+  cursor: pointer;
+}
+.contact6,
+.portfolio5,
+.tools5 {
+  position: absolute;
+  height: 3%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+}
+.tools5 {
+  width: 6.41%;
+  top: 56.73%;
+  cursor: pointer;
+}
+.contact6 {
+  width: 7.19%;
+  top: 53.13%;
+  filter: blur(3px);
+}
+.icon-facebook3,
+.icon-instagram3,
+.icon-menu3,
+.icon-phone3 {
+  position: absolute;
+  height: 3.61%;
+  width: 2.34%;
+  top: 90.14%;
+  right: 81.41%;
+  bottom: 6.25%;
+  left: 16.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-facebook3,
+.icon-instagram3,
+.icon-menu3 {
+  right: 87.81%;
+  left: 9.84%;
+}
+.icon-instagram3,
+.icon-menu3 {
+  right: 84.61%;
+  left: 13.05%;
+}
+.icon-menu3 {
+  height: 3.82%;
+  width: 2.73%;
+  top: 3.97%;
+  right: 3.28%;
+  bottom: 92.21%;
+  left: 93.98%;
+}
+.instagran3,
+.tandindd3 {
+  position: absolute;
+  top: 750px;
+  left: 126px;
+  font-size: var(--font-size-smi);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  color: inherit;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  opacity: 0;
+}
+.instagran3 {
+  left: 167px;
+}
+.group-child17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+}
+.contact7 {
+  position: absolute;
+  height: 7.68%;
+  width: 32.15%;
+  top: 0;
+  left: 1.18%;
+  display: inline-block;
+}
+.group-child18 {
+  position: absolute;
+  height: 0.4%;
+  width: 11.05%;
+  top: 13.74%;
+  right: 87.97%;
+  bottom: 85.86%;
+  left: 0.99%;
+  border-top: 2px solid var(--color-red);
+  box-sizing: border-box;
+}
+.group-child19,
+.group-child20 {
+  position: absolute;
+  height: 10.71%;
+  width: 9.86%;
+  top: 27.07%;
+  right: 88.95%;
+  bottom: 62.22%;
+  left: 1.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child20 {
+  height: 10.51%;
+  width: 13.21%;
+  top: 47.27%;
+  right: 86.79%;
+  bottom: 42.22%;
+  left: 0;
+}
+.cstrubedubt1,
+.div1 {
+  position: absolute;
+  height: 10.71%;
+  width: 53.45%;
+  top: 27.07%;
+  left: 17.16%;
+  display: inline-block;
+}
+.cstrubedubt1 {
+  height: 10.91%;
+  width: 82.84%;
+  top: 46.87%;
+}
+.group-child21,
+.group-child22 {
+  position: absolute;
+  height: 12.12%;
+  width: 11.83%;
+  top: 87.88%;
+  right: 86.79%;
+  bottom: 0;
+  left: 1.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-child22 {
+  top: 67.07%;
+  bottom: 20.81%;
+}
+.its-tandintshewang-1,
+.tandin-tshewang1 {
+  position: absolute;
+  height: 11.11%;
+  width: 77.51%;
+  top: 68.08%;
+  left: 17.16%;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+}
+.tandin-tshewang1 {
+  height: 9.7%;
+  width: 68.44%;
+  top: 89.7%;
+}
+.contact-group {
+  position: absolute;
+  height: 63.06%;
+  width: 67.34%;
+  top: 2.93%;
+  right: 27.88%;
+  bottom: 34.01%;
+  left: 4.78%;
+}
+.rectangle-parent4 {
+  position: absolute;
+  height: 94.35%;
+  width: 58.82%;
+  top: 3.25%;
+  right: 14.77%;
+  bottom: 2.4%;
+  left: 26.41%;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.macbook-air-21 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+}
+.macbook-air-2-root {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}

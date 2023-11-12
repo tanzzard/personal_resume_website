@@ -1,0 +1,374 @@
+.macbook-air-2-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 300px;
+  height: 832px;
+}
+.black-and-white-collection-206,
+.macbook-air-2-child4 {
+  position: absolute;
+  height: 12.5%;
+  width: 8.13%;
+  top: 0;
+  right: 83.75%;
+  bottom: 87.5%;
+  left: 8.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.macbook-air-2-child4 {
+  height: 100%;
+  width: 0.08%;
+  right: 92.15%;
+  bottom: 0;
+  left: 7.77%;
+}
+.about9,
+.home6 {
+  width: 5.55%;
+  cursor: pointer;
+}
+.home6 {
+  position: absolute;
+  height: 3%;
+  top: 42.31%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+}
+.about9 {
+  top: 45.91%;
+}
+.about9,
+.contact11,
+.portfolio11,
+.tools8 {
+  position: absolute;
+  height: 3%;
+  left: 9.84%;
+  line-height: 30px;
+  display: inline-block;
+}
+.portfolio11 {
+  width: 7.19%;
+  top: 49.52%;
+  filter: blur(3px);
+}
+.contact11,
+.tools8 {
+  width: 6.41%;
+  top: 56.73%;
+  cursor: pointer;
+}
+.contact11 {
+  width: 7.19%;
+  top: 53.13%;
+}
+.icon-facebook6,
+.icon-instagram6,
+.icon-menu6,
+.icon-phone6 {
+  position: absolute;
+  height: 3.61%;
+  width: 2.34%;
+  top: 90.14%;
+  right: 81.41%;
+  bottom: 6.25%;
+  left: 16.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-facebook6,
+.icon-instagram6,
+.icon-menu6 {
+  right: 87.81%;
+  left: 9.84%;
+}
+.icon-instagram6,
+.icon-menu6 {
+  right: 84.61%;
+  left: 13.05%;
+}
+.icon-menu6 {
+  height: 3.82%;
+  width: 2.73%;
+  top: 3.97%;
+  right: 3.28%;
+  bottom: 92.21%;
+  left: 93.98%;
+}
+.instagran6,
+.tandindd6 {
+  position: absolute;
+  top: 750px;
+  left: 126px;
+  font-size: var(--font-size-smi);
+  text-decoration: underline;
+  font-family: var(--font-inter);
+  color: inherit;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  opacity: 0;
+}
+.instagran6 {
+  left: 167px;
+}
+.group-child46 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+}
+.portfolio12 {
+  position: absolute;
+  height: 4.84%;
+  width: 21.65%;
+  top: 2.93%;
+  left: 5.58%;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+}
+.group-child47 {
+  position: absolute;
+  height: 0.25%;
+  width: 7.44%;
+  top: 11.59%;
+  right: 87.12%;
+  bottom: 88.15%;
+  left: 5.45%;
+  border-top: 2px solid var(--color-red);
+  box-sizing: border-box;
+}
+.icon-circle {
+  height: 1.91%;
+  width: 1.99%;
+  top: 35.67%;
+  right: 92.43%;
+  bottom: 62.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.experience,
+.icon-circle,
+.icon-circle1 {
+  position: absolute;
+  left: 5.58%;
+}
+.experience {
+  height: 4.33%;
+  width: 21.38%;
+  top: 14.9%;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+}
+.icon-circle1 {
+  height: 1.91%;
+  width: 1.99%;
+  top: 22.42%;
+  right: 92.43%;
+  bottom: 75.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.i-encountered-coding,
+.i-immersed-myself {
+  position: absolute;
+  height: 13.89%;
+  width: 88%;
+  top: 21.78%;
+  left: 9.3%;
+  display: inline-block;
+}
+.i-encountered-coding {
+  height: 10.57%;
+  width: 85.4%;
+  top: 35.03%;
+}
+.icon-circle2,
+.icon-circle3 {
+  position: absolute;
+  height: 1.91%;
+  width: 1.99%;
+  top: 45.99%;
+  right: 92.43%;
+  bottom: 52.1%;
+  left: 5.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-circle3 {
+  top: 56.31%;
+  bottom: 41.78%;
+}
+.balancing-academics-projects,
+.the-faculty-were {
+  position: absolute;
+  height: 10.32%;
+  width: 83.15%;
+  top: 45.35%;
+  left: 9.3%;
+  display: inline-block;
+}
+.balancing-academics-projects {
+  height: 10.96%;
+  width: 83.01%;
+  top: 55.67%;
+  left: 9.16%;
+}
+.icon-circle4 {
+  height: 1.91%;
+  width: 1.99%;
+  top: 72.74%;
+  right: 92.43%;
+  bottom: 25.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.education,
+.icon-circle4,
+.icon-circle5 {
+  position: absolute;
+  left: 5.58%;
+}
+.icon-circle5 {
+  height: 1.91%;
+  width: 1.99%;
+  top: 81.91%;
+  right: 92.43%;
+  bottom: 16.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.education {
+  height: 4.84%;
+  width: 18.59%;
+  top: 66.62%;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+}
+.changzamtog-middle-secondary,
+.middle-secondary-education {
+  position: absolute;
+  height: 2.93%;
+  width: 53.13%;
+  top: 72.1%;
+  left: 9.16%;
+  display: inline-block;
+}
+.changzamtog-middle-secondary {
+  height: 2.68%;
+  width: 42.37%;
+  top: 75.67%;
+  font-size: var(--font-size-base);
+}
+.higher-secondary-education,
+.lungtenzampa-middle-secondary {
+  position: absolute;
+  height: 2.68%;
+  width: 53%;
+  top: 81.15%;
+  left: 9.3%;
+  display: inline-block;
+}
+.lungtenzampa-middle-secondary {
+  width: 42.24%;
+  top: 78.34%;
+  left: 9.16%;
+  font-size: var(--font-size-base);
+}
+.karma-academy {
+  margin: 0;
+}
+.karma-academy-punakha-container {
+  position: absolute;
+  height: 5.61%;
+  width: 33.74%;
+  top: 84.59%;
+  left: 9.3%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 1.91%;
+  width: 1.99%;
+  top: 91.08%;
+  right: 92.43%;
+  bottom: 7.01%;
+  left: 5.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.be-software-engineering,
+.college-of-science {
+  position: absolute;
+  height: 2.8%;
+  width: 42.1%;
+  top: 90.19%;
+  left: 9.3%;
+  display: inline-block;
+}
+.college-of-science {
+  width: 41.84%;
+  top: 93.89%;
+  font-size: var(--font-size-base);
+}
+.rectangle-parent10 {
+  position: absolute;
+  height: 94.35%;
+  width: 58.82%;
+  top: 3.25%;
+  right: 14.77%;
+  bottom: 2.4%;
+  left: 26.41%;
+  color: var(--color-black);
+}
+.icon-arrow-circle-right {
+  position: absolute;
+  height: 4.81%;
+  width: 3.13%;
+  top: 89.66%;
+  right: 16.25%;
+  bottom: 5.53%;
+  left: 80.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.macbook-air-23 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+}
+.macbook-air-2-wrapper {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}
